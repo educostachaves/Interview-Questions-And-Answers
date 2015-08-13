@@ -4,25 +4,26 @@ This is only a simple review of some questions that may you will receive from a 
 
 General Questions:
 
-Are you on Twitter?
-If so, who do you follow on Twitter?
-Are you on GitHub?
-If so, what are some examples of repos you follow
-What blogs do you follow?
-What version control systems have you used (Git, SVN etc.)?
-What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
-Can you describe your workflow when you create a web page?
-Can you describe the difference between progressive enhancement and graceful degradation?
-Bonus points for describing feature detection
-Explain what "Semantic HTML" means.
-What browser do you primarily develop in and what developer tools do you use?
-How would you optimize a websites assets/resources?
-Looking for a number of solutions which can include:
-File concatenation
-File minification
-CDN Hosted
-Caching
+- Are you on Twitter?
+- If so, who do you follow on Twitter?
+- Are you on GitHub?
+- If so, what are some examples of repos you follow
+- What blogs do you follow?
+- What version control systems have you used (Git, SVN etc.)?
+- What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
+- Can you describe your workflow when you create a web page?
+- Can you describe the difference between progressive enhancement and graceful degradation?
+- Bonus points for describing feature detection
+- Explain what "Semantic HTML" means.
+- What browser do you primarily develop in and what developer tools do you use?
+- How would you optimize a websites assets/resources?
+- Looking for a number of solutions which can include:
+- File concatenation
+- File minification
+- CDN Hosted
+- Caching
 etc.
+
 Why is it better to serve site assets from multiple domains?
 How many resources will a browser download from a given domain at a time?
 Name 3 ways to decrease page load. (perceived or actual load time)
