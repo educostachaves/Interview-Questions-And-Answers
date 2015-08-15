@@ -5,8 +5,13 @@ This is only a simple review of some questions that may you will receive from a 
 General Questions:
 
 - Are you on Twitter?
+Yes. you need use twitter, not to post usual things, like drink a coffee, or wash your hands, but follow developers of technologies that you like.
 - If so, who do you follow on Twitter?
+Good international names: Brendan Eich [@BrendanEich](https://twitter.com/BrendanEich), Chris Heilmann
+[@codepo](https://twitter.com/codepo8), James Halliday [@substack](https://twitter.com/substack), Sebastian McKenzie [@sebmck](https://twitter.com/sebmck), Laurie Voss [@seldo](https://twitter.com/seldo)
+Good Brazilian Names: 
 - Are you on GitHub?
+Yes! You must have a GitHub Account.
 - If so, what are some examples of repos you follow
 - What blogs do you follow?
 - What version control systems have you used (Git, SVN etc.)?
